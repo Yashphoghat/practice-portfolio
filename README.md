@@ -9,7 +9,7 @@ This repository contains a simple HTML template for creating a personal portfoli
 - [Usage](#usage)
 - [Customization](#customization)
 - [Contributing](#contributing)
-- [License](#license)
+- [deploylink](#deploylink)
 
 ## Description
 
@@ -45,9 +45,9 @@ You can customize various aspects of the template:
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
+## deploylink
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for personal or commercial projects.
+https://portfolio-clone-lilac.vercel.app/
 
 ---
 
