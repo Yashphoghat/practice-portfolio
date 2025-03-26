@@ -1,4 +1,3 @@
-
 # **Portfolio Clone**
 
 This repository contains a simple HTML template for creating a personal portfolio website. It includes sections such as a header, about, services, portfolio, and contact, along with JavaScript functionalities for interactivity.
@@ -39,13 +38,17 @@ Follow these steps to use this template:
 
 1. **Clone or Download:**  
    Clone the repository to your local machine using the command below or download it as a ZIP file:  
+   
    ```bash
    git clone https://github.com/username/portfolio-clone.git
    ```
+
 2. **Customize:**  
    Update the content, images, and styles to align with your personal branding.  
+
 3. **Host Locally:**  
    Open the `index.html` file in your browser for local testing.  
+
 4. **Deploy Online:**  
    Use hosting services like [Vercel](https://vercel.com/), [GitHub Pages](https://pages.github.com/), or [Netlify](https://www.netlify.com/) to deploy your website online.  
 
@@ -80,17 +83,23 @@ Contributions are welcome! If you encounter any issues or have ideas for improve
 
 1. Fork the repository.  
 2. Create a new branch:  
+   
    ```bash
    git checkout -b feature/YourFeatureName
    ```
+
 3. Commit your changes:  
+   
    ```bash
    git commit -m "Add your message here"
    ```
+
 4. Push to your branch:  
+   
    ```bash
    git push origin feature/YourFeatureName
    ```
+
 5. Open a pull request on GitHub.  
 
 ---
@@ -99,6 +108,3 @@ Contributions are welcome! If you encounter any issues or have ideas for improve
 
 Experience the live version of this portfolio template here:  
 👉 [Portfolio Clone - Live Demo](https://portfolio-clone-lilac.vercel.app/)
-
----
-
